@@ -1,6 +1,7 @@
 # BMI Analytics Challange
 
-BMI analytics tool help you to analyse BMI Data
+BMI analytics tool help you to analyse BMI Data.
+You can download a release version for windows by clicking on [release](https://github.com/ranjeetsinghdelhi/code-20201112-ranjeetsingh/releases) link.
 
 ### Tech
 
