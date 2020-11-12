@@ -23,19 +23,19 @@ $ cd code-20201112-ranjeetsingh
 $ python setup.py install
 ```
 
-To build
+build dependencies
 
 ```sh
 $ python setup.py build
 ```
 
-To install
+install dependencies
 
 ```sh
 $ python setup.py install
 ```
 
-To test
+test script
 
 ```sh
 $ python setup.py test
